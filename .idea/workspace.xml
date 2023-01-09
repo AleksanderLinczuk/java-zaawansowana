@@ -42,14 +42,14 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0901.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0901.Main" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +89,12 @@
     </configuration>
     <list>
       <item itemvalue="Ant Target.Unnamed" />
-      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Maven.clean install" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
