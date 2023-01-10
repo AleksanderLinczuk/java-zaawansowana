@@ -1,4 +1,4 @@
-package day0901;
+package operationsIO;
 
 import java.io.IOException;
 
@@ -10,10 +10,10 @@ public class App {
         String content = fileUtil.readFile(INPUT_PATH);
         System.out.println(content);
 
-        String content2 = "11";
+
 
         fileUtil.writeFile(OUTPUT_PATH, content);
-        fileUtil.writeFile(OUTPUT_PATH, content2);
+
 
     }
 }

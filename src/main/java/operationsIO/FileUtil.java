@@ -1,4 +1,4 @@
-package day0901;
+package operationsIO;
 
 import java.io.*;
 
@@ -11,6 +11,9 @@ public class FileUtil {
         String line;
 
         while ((line = bufferedReader.readLine()) != null){
+            if (line.equals("\n")){
+                stringBuilder.append("\n");
+            }
             stringBuilder.append(line);
         }
         return stringBuilder.toString();
@@ -20,5 +23,6 @@ public class FileUtil {
         var fileWriter = new FileWriter(path);
         var bufferedWriter = new BufferedWriter(fileWriter);
         bufferedWriter.write(content);
+        bufferedWriter.flush();
     }
 }

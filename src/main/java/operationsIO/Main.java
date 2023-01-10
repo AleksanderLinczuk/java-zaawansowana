@@ -1,13 +1,20 @@
-package day0901;
+package operationsIO;
 
 import java.io.*;
+import java.nio.CharBuffer;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) throws IOException {
 //        fileInputStream();
 //        fileReader();
-        bufferedReader();
-    }
+//        bufferedReader();
+//        buffer();
+        path();   }
 
     private static void fileInputStream() throws IOException {
         FileInputStream fileInputStream = new FileInputStream("src/main/resources/input");
@@ -51,8 +58,24 @@ public class Main {
 //            System.out.println(line);
 //
 //        }
-        bufferedWriter.write("hello");
-
+        bufferedWriter.write("hello123456789");
+        bufferedWriter.flush();
     }
+    private static void buffer(){
+        CharBuffer charBuffer = CharBuffer.allocate(6);
+        String name = "Tomek";
+        for (int i = 0 ; i<name.length(); i++){
+            char c = name.charAt(i);
+            charBuffer.put(c);
 
+        }
+        System.out.println(Arrays.toString(charBuffer.array()));
+    }
+    private static void path() throws IOException {
+        Path path = Paths.get("src/main/resources/channelFile");
+        if (!Files.exists(path)){
+            Files.createFile(path);
+        }
+        Files.write(path, "Tomek".getBytes(), StandardOpenOption.WRITE);
+    }
 }
