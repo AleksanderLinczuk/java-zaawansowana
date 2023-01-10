@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="paths">
-      <change afterPath="$PROJECT_DIR$/src/main/java/operationsIO/serialization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operationsIO/serialization/Person.java" afterDir="false" />
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="file input/output stream hotfix">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/input" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.operationsIO.serialization.Main">
+  <component name="RunManager" selected="Application.oop.showroom.Main">
     <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="operationsIO.serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.showroom.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.showroom.Main" />
+      <module name="java-zaawansowana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.showroom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,6 +138,7 @@
     </configuration>
     <list>
       <item itemvalue="Ant Target.Unnamed" />
+      <item itemvalue="Application.oop.showroom.Main" />
       <item itemvalue="Application.operationsIO.serialization.Main" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.Main" />
@@ -131,6 +146,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.showroom.Main" />
         <item itemvalue="Application.operationsIO.serialization.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
@@ -167,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673372733767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="file input/output stream hotfix">
+      <created>1673375858493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673375858493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +208,7 @@
     <MESSAGE value="initv4" />
     <MESSAGE value="end of day001 update" />
     <MESSAGE value="paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="paths" />
+    <MESSAGE value="file input/output stream hotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="file input/output stream hotfix" />
   </component>
 </project>
