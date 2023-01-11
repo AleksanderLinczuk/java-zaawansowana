@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="file input/output stream hotfix">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Vehicle.java" afterDir="false" />
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="oop day002 update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673375858493</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="oop day002 update">
+      <created>1673381200095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673381200095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +212,7 @@
     <MESSAGE value="end of day001 update" />
     <MESSAGE value="paths" />
     <MESSAGE value="file input/output stream hotfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="file input/output stream hotfix" />
+    <MESSAGE value="oop day002 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop day002 update" />
   </component>
 </project>
