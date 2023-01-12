@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="test force pushv2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/ShowroomApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Motorbike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/BrandType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/ColourType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/EngineType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/FuelType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/GearboxType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/ModelType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/enums/MotorbikeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/repository/VehicleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/service/VehicleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/service/VehicleServiceImpl.java" afterDir="false" />
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="showroom application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/Motorbike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/ShowroomApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/ShowroomApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/showroom/model/Motorbike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673455520857</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="showroom application">
+      <created>1673547819811</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673547819811</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +288,7 @@
     <MESSAGE value="oop day002 update" />
     <MESSAGE value="test force push" />
     <MESSAGE value="test force pushv2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test force pushv2" />
+    <MESSAGE value="showroom application" />
+    <option name="LAST_COMMIT_MESSAGE" value="showroom application" />
   </component>
 </project>
