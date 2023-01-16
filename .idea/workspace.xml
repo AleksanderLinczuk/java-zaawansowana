@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="showroom application ready">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/SetExample.java" afterDir="false" />
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="End of advancedJava week1- 12.01.2023">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/ListExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/SetExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/set/SetExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +65,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/KURSY ONLINE/kurs JAVA SDA/Kody/Java zaawansowana/java-zaawansowana&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MapExample">
+  <component name="RunManager" selected="Application.ListExercises">
     <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ListExample" />
+    <configuration name="Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.map.Dictionary" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.MapExample" />
+    <configuration name="ListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.list.ListExercises" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.SetExample" />
+    <configuration name="MapExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.map.MapExercises" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="collections.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowroomApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.showroom.ShowroomApp" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.QueueExample" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.showroom.*" />
+          <option name="PATTERN" value="collections.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.showroom.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.showroom.Main" />
+    <configuration name="SetExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.set.SetExercises" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.showroom.model.*" />
+          <option name="PATTERN" value="collections.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,20 +171,20 @@
     </configuration>
     <list>
       <item itemvalue="Ant Target.Unnamed" />
-      <item itemvalue="Application.ListExample" />
-      <item itemvalue="Application.MapExample" />
-      <item itemvalue="Application.SetExample" />
-      <item itemvalue="Application.ShowroomApp" />
-      <item itemvalue="Application.oop.showroom.Main" />
+      <item itemvalue="Application.Dictionary" />
+      <item itemvalue="Application.MapExercises" />
+      <item itemvalue="Application.SetExercises" />
+      <item itemvalue="Application.ListExercises" />
+      <item itemvalue="Application.QueueExample" />
       <item itemvalue="Maven.clean install" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.ShowroomApp" />
-        <item itemvalue="Application.oop.showroom.Main" />
+        <item itemvalue="Application.ListExercises" />
+        <item itemvalue="Application.MapExercises" />
+        <item itemvalue="Application.Dictionary" />
+        <item itemvalue="Application.SetExercises" />
+        <item itemvalue="Application.QueueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673550986565</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="End of advancedJava week1- 12.01.2023">
+      <created>1673555414287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673555414287</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +310,7 @@
     <MESSAGE value="test force pushv2" />
     <MESSAGE value="showroom application" />
     <MESSAGE value="showroom application ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="showroom application ready" />
+    <MESSAGE value="End of advancedJava week1- 12.01.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of advancedJava week1- 12.01.2023" />
   </component>
 </project>
