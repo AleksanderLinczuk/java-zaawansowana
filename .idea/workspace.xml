@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="Kolekcje- update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Training.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic/SDAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/IntegerFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Internist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/exercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/exercise/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/map/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="19.01.2023 updatev2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master-test" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
