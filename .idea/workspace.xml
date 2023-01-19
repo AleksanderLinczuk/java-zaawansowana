@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="19.01.2023 updatev2" />
+    <list default="true" id="fba45ae1-7303-41a3-bd20-3294d12e05bf" name="Changes" comment="19.01.2023- po rebasie z repozytorium Tomasza Wojtyry">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +30,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
-        <option value="master" />
+        <option value=".*.*" />
       </list>
     </option>
   </component>
@@ -271,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673896055706</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="19.01.2023- po rebasie z repozytorium Tomasza Wojtyry">
+      <created>1674159612977</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674159612977</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +296,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="developMoj" />
                       </list>
                     </value>
                   </entry>
@@ -309,6 +320,7 @@
     <MESSAGE value="showroom application ready" />
     <MESSAGE value="End of advancedJava week1- 12.01.2023" />
     <MESSAGE value="Kolekcje- update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kolekcje- update" />
+    <MESSAGE value="19.01.2023- po rebasie z repozytorium Tomasza Wojtyry" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.01.2023- po rebasie z repozytorium Tomasza Wojtyry" />
   </component>
 </project>
