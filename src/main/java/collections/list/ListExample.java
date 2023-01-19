@@ -54,7 +54,7 @@ public class ListExample {
         linkedList.removeFirst();
         linkedList.removeLast();
         System.out.println(linkedList);
+
+
     }
-
-
 }
