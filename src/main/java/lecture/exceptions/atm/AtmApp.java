@@ -2,6 +2,7 @@ package lecture.exceptions.atm;
 
 public class AtmApp {
 
+
     private static final Atm ATM = new Atm(1000d);
 
     public static void main(String[] args) {
